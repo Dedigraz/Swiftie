@@ -1,0 +1,19 @@
+{
+  "name": "swiftie",
+  "version": "1.0.0",
+  "description": "movie streaming web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dedigraz/Swiftie.git"
+  },
+  "author": "Oge,Ebun and Tayyib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dedigraz/Swiftie/issues"
+  },
+  "homepage": "https://github.com/Dedigraz/Swiftie#readme"
+}
